@@ -1,0 +1,75 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   20.19.15.4364
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Omer\Desktop\YazMuhProje\çivi_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Omer\Desktop\YazMuhProje\çivi_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Omer\Desktop\YazMuhProje\çivi_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Omer\Desktop\YazMuhProje\çivi_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Omer\Desktop\YazMuhProje\çivi_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Omer\Desktop\YazMuhProje\çivi_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Omer\Desktop\YazMuhProje\çivi_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Omer\Desktop\YazMuhProje\çivi_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Omer\Desktop\YazMuhProje\çivi_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Omer\Desktop\YazMuhProje\çivi_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Omer\Desktop\YazMuhProje\çivi_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Omer\Desktop\YazMuhProje\çivi_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.036 seconds
+Platform assembly: C:\Users\Omer\Desktop\YazMuhProje\çivi_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Omer\Desktop\YazMuhProje\çivi_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'BaslaButton') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'BaslaButton') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ExitButton') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 1.561678 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 39e8 -> priority: 1 
+  Thread -> id: 39ec -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.634268 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 810.
+Total: 0.337382 ms (FindLiveObjects: 0.040296 ms CreateObjectMapping: 0.019753 ms MarkObjects: 0.272592 ms  DeleteObjects: 0.003950 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.917332 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 837.
+Total: 0.694518 ms (FindLiveObjects: 0.073086 ms CreateObjectMapping: 0.022913 ms MarkObjects: 0.591012 ms  DeleteObjects: 0.007111 ms)
+
+The referenced script on this Behaviour (Game Object 'BaslaButton') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'BaslaButton') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ExitButton') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.249579 ms
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2317.
+Total: 0.564542 ms (FindLiveObjects: 0.112197 ms CreateObjectMapping: 0.039506 ms MarkObjects: 0.347654 ms  DeleteObjects: 0.063999 ms)
+
